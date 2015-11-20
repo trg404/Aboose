@@ -1,0 +1,49 @@
+
+header  {
+    
+    border: 2px solid black;
+    width: 1920px;
+    height: 80px;
+    text-align:center;
+    h1{ 
+        font-family: 'Lobster', cursive;
+        padding-left: 20px;
+        margin: 0;
+    }
+    h2{
+        font-family: 'Amatic SC', cursive;
+        padding-left: 15px;
+        margin: 0;
+    }
+}
+
+
+
+.box{
+    border: 1px solid black;
+    height: 100px;
+    width: 480px;
+    margin: 0;
+    .box_row1{
+        float:left;
+        margin-left: 10px;
+    }
+    .box_row2{
+        float:left;
+        margin-left: 50px;
+    }
+    .box_row3{
+        float:right;
+        margin-right: 10px;
+    }
+    h1{
+        font-family: 'Droid Sans', sans-serif;
+        font-size: 20px;
+        margin:0 0 10px 0;
+    }
+    h2{
+        font-family: 'Droid Sans', sans-serif;
+        font-size: 15px;
+        margin: 0 0 15px 0;
+    }
+}
